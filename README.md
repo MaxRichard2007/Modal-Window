@@ -34,6 +34,10 @@ To get started with using the modal functionality in your project, simply downlo
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request on GitHub.
 
-## License
+## Credits
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Special thanks to [Jonas Schmedtmann](https://github.com/jonasschmedtmann) for his wonderful work and inspiration.
+
+## Enjoy the Game!
+
+Feel free to play the game and have fun! If you have any questions or feedback, don't hesitate to reach out.
