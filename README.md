@@ -8,19 +8,19 @@ The JavaScript code provided in this repository enables the creation of a modal 
 
 ## Code Explanations
 
-### Code 1:
+### Version 1:
 
 This code defines a modal functionality where clicking on certain buttons opens a modal window and clicking on the close button or overlay closes it. It selects the modal, overlay, close button, and open modal buttons from the DOM. It then adds event listeners to each open modal button to remove the `hidden` class from the modal and overlay when clicked. Additionally, it adds event listeners to the close button and overlay to add the `hidden` class back to both elements when clicked.
 
 [Play Version 1](https://guess-my-number-version-1.netlify.app/)
 
-### Code 2:
+### Version 2:
 
 Similar to the first code, this code also defines open and close modal functionality. However, it encapsulates the open and close modal logic in separate functions `openModal` and `closeModal`, respectively. The open modal function removes the `hidden` class from the modal and overlay, while the close modal function adds the `hidden` class back to both elements. Event listeners are added to the open modal buttons to call the `openModal` function when clicked, and to the close button and overlay to call the `closeModal` function.
 
 [Play Version 2](https://guess-my-number-version-2.netlify.app/)
 
-### Code 3:
+### Version 3:
 
 This code provides the same open and close modal functionality as the previous codes. It also uses separate functions `openModal` and `closeModal` to handle opening and closing of the modal. Additionally, it adds an event listener to the `keydown` event, so that when the user presses the Enter key and the modal is open, it calls the `closeModal` function to close the modal.
 
